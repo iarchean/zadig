@@ -1,2 +1,2 @@
-from koderover.tencentcloudcr.com/koderover-demo/nginx
+from nginx
 add ./index.html /usr/share/nginx/html
